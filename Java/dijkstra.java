@@ -5,7 +5,7 @@
 import java.util.*;
 
 // Main class DPQ
-public class GFG {
+public class dijkstra {
 
 	// Member variables of this class
 	private int dist[];
@@ -16,7 +16,7 @@ public class GFG {
 	List<List<Node> > adj;
 
 	// Constructor of this class
-	public GFG(int V)
+	public dijkstra(int V)
 	{
 
 		// This keyword refers to current object itself
@@ -125,7 +125,7 @@ public class GFG {
 		adj.get(2).add(new Node(3, 4));
 
 		// Calculating the single source shortest path
-		GFG dpq = new GFG(V);
+		dijkstra dpq = new dijkstra(V);
 		dpq.dijkstra(adj, source);
 
 		// Printing the shortest path to all the nodes
