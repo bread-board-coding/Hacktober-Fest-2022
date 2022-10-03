@@ -4,12 +4,13 @@ SO this is an An Open Source repository to Teach people How to contribute to ope
 
 ![MIT License](https://camo.githubusercontent.com/709f3cbabb06b8896edf6890835a638693bb9f70e6002a959e189190d55d6111/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-Bonus - Create 4 PRs and you'll get a chance to earn a t-shirt or plant a tree.
+Bonus - Create 4 PRs and you'll get a chance to earn a T-shirt or plant a tree.
 
 
-![banner](https://user-images.githubusercontent.com/73028420/135714087-95c1e072-e5ce-4282-b541-6283e642aed2.jpeg)
+<!-- ![banner](https://user-images.githubusercontent.com/73028420/135714087-95c1e072-e5ce-4282-b541-6283e642aed2.jpeg) -->
+![banner](https://user-images.githubusercontent.com/76773190/193485265-c9bf1170-d3c5-4194-9eef-ff5583a71177.png)
 
-This repository is for people who want to contribute to open source in order to change the World with your small intiative. Different projects are welcome to this repository.
+This repository is for people who want to contribute to open source in order to change the World with your small amd impactful intiative. Different projects are welcome to this repository.
 Feel free to connect with maintainers and owners!
 
    # Do give a star if you liked this repo.
