@@ -10,14 +10,14 @@ Bonus - Create 4 PRs and you'll get a chance to earn a T-shirt or plant a tree.
 <!-- ![banner](https://user-images.githubusercontent.com/73028420/135714087-95c1e072-e5ce-4282-b541-6283e642aed2.jpeg) -->
 ![banner](https://user-images.githubusercontent.com/76773190/193485265-c9bf1170-d3c5-4194-9eef-ff5583a71177.png)
 
-This repository is for people who want to contribute to open source in order to change the World with your small amd impactful intiative. Different projects are welcome to this repository.
+This repository is for people who want to contribute to open source in order to change the World with your small and impactful intiative. Different projects are welcome to this repository.
 Feel free to connect with maintainers and owners!
 
    # Do give a star if you liked this repo.
    
   
 
-Note - Your Project Must be valid
+Note - Your Project must be valid
 
 ```bash
   Do not Copy anyone else's Project or work.
@@ -30,7 +30,7 @@ Note - Your Project Must be valid
 
 - Do not just re-edit the file or make some small changes this kind of PRs will not be accepted.
 
-- Do not add anyone else's work in this repository.It will leads to failure of your pull request.
+- Do not add anyone else's work in this repository. It will leads to failure of your pull request.
 
 - Do not make any other change except the changes you made.This may lead to strict actions against you!
 
