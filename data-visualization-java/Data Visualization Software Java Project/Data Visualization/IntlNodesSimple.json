@@ -1,0 +1,1247 @@
+[
+	{
+		"name": "Calit2 UCI",
+		"size": "b",
+		"imports": "City of Daegu, Korea"
+	},
+	{
+		"name": "Calit2 UCI",
+		"size": "b",
+		"imports": "Embassy of France"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "c",
+		"imports": "Thetis, SPA"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "a",
+		"imports": "King Abdulaziz City for Science and Technology"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "b",
+		"imports": "King Abdullah University of Science and Technology"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "c",
+		"imports": "United Kingdom"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "a",
+		"imports": "CONACYT"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "a",
+		"imports": "PRAGMA"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "Cybermedia Center and Research Center for Ultra-high Voltage Electron Microscopy, Osaka University"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "Monash University"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "National Center for Higher Performance Computing-Taiwan"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "National Institute of Advanced Industrial Science and Technology-Japan"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "UCSD"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "Center for Computational Sciences, University of Tsukuba"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "College of Computer Science and Technology, Jilin University"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "Computer Network Information Center, Chinese Academy of Sciences"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "University of Hong Kong"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "Kasetsart University"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "Konkuk University"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "Korea Institute of Science and Technology Information"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "National Electronics and Computer Technology Center-Thailand"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "TransPAC2, Indiana"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "Universiti Sains Malaysia"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "University of Hyderabad"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "Malaysian Institute of Microelectronic Systems (MIMOS)"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "Academia Sinica Grid Computing Center-Taiwan"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "Advanced Science and Technology Institute-Phillipines"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "BestGrid New Zealand"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "Hanoi University of Technology"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "Ho Chi Minh City University of Technology"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "Institue for Information Technology-Vietnam"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "Star Tap, Translight"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "d",
+		"imports": "Asia Pacific Advanced Network-Japan"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "d",
+		"imports": "Centro de Invertigacion Cientifica y de Educacion Superior de Ensenada (CICESE)"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "d",
+		"imports": "Global Scientific Information and Computing Center, Tokyo Institute of Technology"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "d",
+		"imports": "Institute for High Performance Computing-Singapore"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "d",
+		"imports": "Pacific Northwest Gigapop"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "E",
+		"imports": "Bioinformatics Institute Singapore (BII"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "E",
+		"imports": "National Agricultural Research Center-Japan"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "E",
+		"imports": "National Center for Supercomputing Applications-Illinois"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "E",
+		"imports": "National Grid Office-Singapore"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "E",
+		"imports": "Computational Science and Engineering Online, University of Utah"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "E",
+		"imports": "CRAY"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "E",
+		"imports": "Korea Basic Science Institute"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "E",
+		"imports": "Thai National Grid Center-Thailand"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "Indiana University"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "University of Florida"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "University of Wisconsin"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "Lan Zhou University"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "b",
+		"imports": "NICT"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "Kookmin University"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "CeNAT-ITCR"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "U Chile"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "c",
+		"imports": "U Zurich"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "d",
+		"imports": "National Applied Research Laboratories"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "UCSD: Center for Research in Biological Systems"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "UCSD: National Biomedical Computation Resource"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "UCSD: National Center for Microscopy and Imaging Research"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "UCSD: San Diego Supercomputing Center"
+	},
+	{
+		"name": "PRAGMA",
+		"size": "a",
+		"imports": "UCSD: Calit2"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "AAARNet-Australia"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "GLORIAD"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Pacific Northwest Gigapop"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "AMPATH"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "HEAnet-Ireland"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Poznan Superocmputing and Networking Center"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "ANSP-Brazil"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "I2cat-Spain"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "RIPN-Russia"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "MCS-Argonnne National Laboratory"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "iCAIR"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "RNP-Brazil"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "International Educational Equal Access Foundation"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "SARA-Norway"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "CANARIE-Canada"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Indiana University"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "StarLight"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "CENIC"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Internet 2"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "SURA"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "CERN"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "JGN-II-Japan"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "SurfNet-Netherlands"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "CERNET-China"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Janet-UK"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "TeraGrid-NSF"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "CESNET-Czechoslovakia"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Juniper Networks, Inc"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "TERENA-Europe"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "CIENA"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "King Abdullah University of Science and Technology"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "TransLight-NSF"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "CISCO"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "KRLight-Korea"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "TWAREN-Taiwan"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "CPqD-Brazil"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "MIT"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "University of Amsterdam"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "CSTNET-China"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "MCNC-North Carolina"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "EVL-UIUC"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "DFN-Germany"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "MAX-Mid Atlantic"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "University College London"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "E-ARENA-Russia"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "NLR"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "University of Maryland"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "ESNET"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Naval Postgraduate School"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "University of Washington"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Extreme Networks"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "NorthWestern"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "UltraLight-US/CERN"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "FAST-California Institute of Technology"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "NSF-CISE"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "USLHCNet"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Fermilab"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "NetherLight"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "WIDE-Japan"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "Global Netwave"
+	},
+	{
+		"name": "Global Lambda Integrated Facility",
+		"size": "",
+		"imports": "NORDUnet"
+	},
+	{
+		"name": "Pacific Northwest Gigapop",
+		"size": "",
+		"imports": "CENIC"
+	},
+	{
+		"name": "Pacific Northwest Gigapop",
+		"size": "",
+		"imports": "CANARIE-Canada"
+	},
+	{
+		"name": "Pacific Northwest Gigapop",
+		"size": "",
+		"imports": "StarLight"
+	},
+	{
+		"name": "Pacific Northwest Gigapop",
+		"size": "",
+		"imports": "Internet 2"
+	},
+	{
+		"name": "Pacific Northwest Gigapop",
+		"size": "",
+		"imports": "Indiana University"
+	},
+	{
+		"name": "Pacific Northwest Gigapop",
+		"size": "",
+		"imports": "SURA"
+	},
+	{
+		"name": "Pacific Northwest Gigapop",
+		"size": "",
+		"imports": "NLR"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "Indiana University"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "StarLight"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "Internet 2"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "NLR"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "TeraGrid-NSF"
+	},
+	{
+		"name": "Pacific Northwest Gigapop",
+		"size": "",
+		"imports": "TransLight-NSF"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "NorthWestern"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "NSF-CISE"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "NorthWestern"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "Fermilab"
+	},
+	{
+		"name": "CANARIE-Canada",
+		"size": "",
+		"imports": "StarLight"
+	},
+	{
+		"name": "CANARIE-Canada",
+		"size": "",
+		"imports": "CENIC"
+	},
+	{
+		"name": "CANARIE-Canada",
+		"size": "",
+		"imports": "Internet 2"
+	},
+	{
+		"name": "CANARIE-Canada",
+		"size": "",
+		"imports": "CISCO"
+	},
+	{
+		"name": "CANARIE-Canada",
+		"size": "",
+		"imports": "EVL-UIUC"
+	},
+	{
+		"name": "MCS-Argonnne National Laboratory",
+		"size": "",
+		"imports": "EVL-UIUC"
+	},
+	{
+		"name": "CANARIE-Canada",
+		"size": "",
+		"imports": "CENIC"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "SARA-Norway"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "AAARNet-Australia"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "GLORIAD"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "SurfNet-Netherlands"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "CERNET-China"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "Janet-UK"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "TeraGrid-NSF"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "CESNET-Czechoslovakia"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "Juniper Networks, Inc"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "TERENA-Europe"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "CIENA"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "TransLight-NSF"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "CISCO"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "KRLight-Korea"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "FAST-California Institute of Technology"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "NSF-CISE"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "USLHCNet"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "NetherLight"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "WIDE-Japan"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "Global Netwave"
+	},
+	{
+		"name": "StarLight",
+		"size": "",
+		"imports": "NORDUnet"
+	},
+	{
+		"name": "Indiana University",
+		"size": "",
+		"imports": "NorthWestern"
+	},
+	{
+		"name": "Indiana University",
+		"size": "",
+		"imports": "University of Maryland"
+	},
+	{
+		"name": "Indiana University",
+		"size": "",
+		"imports": "NLR"
+	},
+	{
+		"name": "Indiana University",
+		"size": "",
+		"imports": "NorthWestern"
+	},
+	{
+		"name": "Indiana University",
+		"size": "",
+		"imports": "TeraGrid-NSF"
+	},
+	{
+		"name": "Indiana University",
+		"size": "",
+		"imports": "NSF-CISE"
+	},
+	{
+		"name": "Indiana University",
+		"size": "",
+		"imports": "University of Washington"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "",
+		"imports": "University of Maryland"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "",
+		"imports": "NLR"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "",
+		"imports": "NorthWestern"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "",
+		"imports": "TeraGrid-NSF"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "",
+		"imports": "NSF-CISE"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "",
+		"imports": "University of Washington"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "",
+		"imports": "Cisco"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "",
+		"imports": "Juniper Networks, Inc"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "",
+		"imports": "Cinegrid"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "Academy of Motion Picture Arts and Science"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "c",
+		"imports": "California Academy of Sciences"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "a",
+		"imports": "Calit2"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "Cisco"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "CPqD-Brazil"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "c",
+		"imports": "Cyberport"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "Dark Strand"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "Digital Domain"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "a",
+		"imports": "EVL-UIUC"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "I2cat-Spain"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "INGI-San Francisco State University"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "IntoPIX"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "JVC America"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "KAIST"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "a",
+		"imports": "Keio University DMC"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "c",
+		"imports": "King Abdullah University of Science and Technology"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "KTH Royal Insitute of Techology"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "c",
+		"imports": "Louisiana State University"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "Lucasfilm"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "b",
+		"imports": "Lucasfilm"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "c",
+		"imports": "MacKenzie"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "c",
+		"imports": "Mechdyne Corporation"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "c",
+		"imports": "Meyer Sound Lab"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "c",
+		"imports": "Meyer Sound Lab"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "Naval Postgraduate School"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "b",
+		"imports": "Naval Postgraduate School"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "NCSA-Illinois"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "b",
+		"imports": "NCSA-Illinois"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "NetApp"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "a",
+		"imports": "NorthWestern"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "a",
+		"imports": "NTT"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "a",
+		"imports": "Pacific Interface Inc"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "Poznan Superocmputing and Networking Center"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "Renaissance Center North Carolina"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "Rogers Communications Center-Ryerson University"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "SARA-Norway"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "Sharp-Japan"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "Sharp-USA"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "a",
+		"imports": "Sony"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "Tohoku University"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "Tulane University"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "a",
+		"imports": "University of Amsterdam"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "University of Manitoba"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "c",
+		"imports": "University of Southern California"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "c",
+		"imports": "University of Southern California"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "c",
+		"imports": "University of Washington"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "d",
+		"imports": "WAAG Society"
+	},
+	{
+		"name": "Cinegrid",
+		"size": "b",
+		"imports": "Walt Disney Studios"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "b",
+		"imports": "Walt Disney Studios"
+	},
+	{
+		"name": "Academy of Motion Picture Arts and Sciences",
+		"size": "a",
+		"imports": "Pacific Interface Inc"
+	},
+	{
+		"name": "Academy of Motion Picture Arts and Sciences",
+		"size": "c",
+		"imports": "California Academy of Sciences"
+	},
+	{
+		"name": "California Academy of Sciences",
+		"size": "a",
+		"imports": "Pacific Interface Inc"
+	},
+	{
+		"name": "NTT",
+		"size": "",
+		"imports": "Cinepost-Prague"
+	},
+	{
+		"name": "Digital Domain",
+		"size": "",
+		"imports": "Walt Disney Studios"
+	},
+	{
+		"name": "NTT",
+		"size": "a",
+		"imports": "EVL-UIUC"
+	},
+	{
+		"name": "EVL-UIUC",
+		"size": "",
+		"imports": "Mechdyne Corporation"
+	},
+	{
+		"name": "NTT",
+		"size": "b",
+		"imports": "Naval Postgraduate School"
+	},
+	{
+		"name": "NTT",
+		"size": "",
+		"imports": "Tohoku University"
+	},
+	{
+		"name": "NTT",
+		"size": "",
+		"imports": "Pacific Interface Inc"
+	},
+	{
+		"name": "Sharp-Japan",
+		"size": "a",
+		"imports": "EVL-UIUC"
+	},
+	{
+		"name": "Sharp-USA",
+		"size": "a",
+		"imports": "EVL-UIUC"
+	},
+	{
+		"name": "NTT",
+		"size": "a",
+		"imports": "University of Amsterdam"
+	},
+	{
+		"name": "University of Amsterdam",
+		"size": "c",
+		"imports": "WAAG Society"
+	},
+	{
+		"name": "NTT",
+		"size": "c",
+		"imports": "USC"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "c",
+		"imports": "King Abdullah University of Science and Technology"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "b",
+		"imports": "Cisco"
+	},
+	{
+		"name": "Calit2 UCSD",
+		"size": "a",
+		"imports": "Korea Electronics Technology Institute"
+	}
+]

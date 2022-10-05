@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Force-Directed Layout</title>
+    <script type="text/javascript" src="../d3.v2.js"></script>
+    <script type="text/javascript" src="../preprocess_force.js"></script>
+    <script type="text/javascript" src="../jquery.min.js"></script>
+    <style type="text/css">
+
+circle {
+  stroke-width: 1.5px;
+}
+
+line {
+  stroke: #999;
+}
+
+.link {
+  stroke: #ccc;
+}
+
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+  color: red;
+}
+
+    </style>
+  </head>
+  <body>
+    <script type="text/javascript">
+
+var width = $(window).width(),
+    height = $(window).height(),
+    radius = 6,
+    fill = d3.scale.category20();
+
+var force = d3.layout.force()
+    .gravity(0.1)
+    .charge(-420)
+    .linkDistance(40)
+    .size([width, height]);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+d3.json("IntlNodes.json", function(json) {
+  json = preprocess.links(json);
+
+  force
+      .nodes(json.nodes)
+      .links(json.links)
+      .start();
+
+//  var link = svg.selectAll(".link")
+//      .data(json.links)
+//    .enter().append("line")
+//      .attr("class", "link");
+
+  var link = svg.selectAll("line")
+      .data(json.links)
+    .enter().append("line");
+
+//  var node = svg.selectAll(".node")
+//      .data(json.nodes)
+//    .enter().append("g")
+//      .attr("class", "node")
+//      .call(force.drag);
+
+  var node = svg.selectAll("circle")
+      .data(json.nodes)
+    .enter().append("circle")
+      .attr("r", function(d) { return (radius + (d.links * .5)) - .75;})
+      .style("fill", function(d) { return fill(d.country_code); })
+      .style("stroke", function(d) { return d3.rgb(fill(d.country_code)).darker(); })
+      .attr("class", "node")
+      .call(force.drag);
+
+//  node.append("image")
+//      .attr("xlink:href", "https://github.com/favicon.ico")
+//      .attr("x", -8)
+//      .attr("y", -8)
+//      .attr("width", 16)
+//      .attr("height", 16);
+
+  node.append("text")
+      .attr("dx", 12)
+      .attr("dy", ".35em")
+      .text(function(d) { console.log(d.name); return d.name });
+
+  force.on("tick", function() {
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+  });
+
+//  force
+//      .nodes(json.nodes)
+//      .links(json.links)
+//      .on("tick", tick)
+//      .start();
+//  function tick() {
+//      node.attr("cx", function(d) { return d.x = Math.max(radius, Math.min(width - radius, d.x)); })
+//          .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(height - radius, d.y)); });
+//
+//      link.attr("x1", function(d) { return d.source.x; })
+//          .attr("y1", function(d) { return d.source.y; })
+//          .attr("x2", function(d) { return d.target.x; })
+//          .attr("y2", function(d) { return d.target.y; });
+//    }
+
+});
+
+/* OLD CODE
+  d3.json("miserables.json", function(json) {
+  var link = svg.selectAll("line")
+      .data(json.links)
+    .enter().append("line");
+
+  var node = svg.selectAll("circle")
+      .data(json.nodes)
+    .enter().append("circle")
+      .attr("r", radius - .75)
+      .style("fill", function(d) { return fill(d.group); })
+      .style("stroke", function(d) { return d3.rgb(fill(d.group)).darker(); })
+      .call(force.drag);
+
+  force
+      .nodes(json.nodes)
+      .links(json.links)
+      .on("tick", tick)
+      .start();
+
+  function tick() {
+    node.attr("cx", function(d) { return d.x = Math.max(radius, Math.min(width - radius, d.x)); })
+        .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(height - radius, d.y)); });
+
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+  }
+});*/
+
+    </script>
+  </body>
+</html>
