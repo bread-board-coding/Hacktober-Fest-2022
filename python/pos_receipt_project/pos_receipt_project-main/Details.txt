@@ -1,0 +1,9 @@
+Name = Abdur Rafay
+Date = 7/9/2021
+Due Date = not specified
+Name of the programme = Python_test_02.pdf
+
+Explanation:
+ This is the billing programme for a Caswell Catering and Convention Services
+ i as a programmer need to write a code which will evaluate receipt according to  the user selection
+ the programme is written in object oriented 
