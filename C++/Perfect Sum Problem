@@ -1,0 +1,63 @@
+//{ Driver Code Starts
+#include <bits/stdc++.h>
+using namespace std;
+
+// } Driver Code Ends
+class Solution{
+	public:
+	int MOD = (int) 1e9 + 7;
+	int solve(int ind , int target , vector<vector<int>> &dp , int arr[]){
+	   if(ind == 0){
+	       if(target == 0 && arr[0] == target)
+	           return 2;
+	       if(target == 0 || target == arr[0])
+	           return 1;
+	       
+	       return 0;
+	   }
+	  
+	   if(dp[ind][target] != -1)
+	       return dp[ind][target] % MOD;
+	       
+	   int notTake = (solve(ind - 1 , target , dp , arr)) % MOD;
+	   int take = 0;
+	   if(arr[ind] <= target)
+	       take = (solve(ind - 1 , target - arr[ind] , dp , arr)) % MOD;
+	       
+	   return (dp[ind][target] = notTake + take) % MOD;
+	}
+	int perfectSum(int arr[], int n, int sum)
+	{
+        vector<vector<int>> dp(n + 1, vector<int>(sum + 1 , -1));
+        return (int)(solve(n - 1, sum , dp , arr) % MOD);
+	}
+	  
+};
+
+//{ Driver Code Starts.
+int main() 
+{
+   	
+   
+   	int t;
+    cin >> t;
+    while (t--)
+    {
+        int n, sum;
+
+        cin >> n >> sum;
+
+        int a[n];
+        for(int i = 0; i < n; i++)
+        	cin >> a[i];
+
+       
+
+	    Solution ob;
+	    cout << ob.perfectSum(a, n, sum) << "\n";
+	     
+    }
+    return 0;
+}
+
+// } Driver Code Ends
