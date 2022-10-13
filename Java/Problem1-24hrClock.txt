@@ -1,0 +1,21 @@
+#include<stdio.h>
+void main()
+{
+	int launch_hh,launch_mm,travel_hh,travel_mm,blast_hh,blast_mm;
+    scanf("%d",&launch_hh);
+    scanf("%d",&launch_mm);
+    scanf("%d",&travel_hh);
+    scanf("%d",&travel_mm);
+
+        blast_hh=launch_hh+travel_hh;
+        blast_mm=launch_mm+travel_mm;
+   
+        if (blast_hh>23 && blast_mm<59){blast_hh-=24;}
+        else if (blast_hh<23 && blast_mm>59){blast_mm-=60;
+                                        blast_hh+=1;}
+        else if(blast_hh>23 && blast_mm>59){blast_mm-=60;
+                                        blast_hh+=1;
+                                        blast_hh-=24;}
+    
+    printf("%02d %02d",blast_hh,blast_mm);
+}
