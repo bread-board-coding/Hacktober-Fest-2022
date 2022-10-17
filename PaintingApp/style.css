@@ -1,0 +1,23 @@
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
+  html {
+    box-sizing: border-box;
+    background: whitesmoke;
+    font-family: sans-serif;
+  }
+  canvas {
+    background: white;
+  }
+  
+  #paint-app {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+  }
+  
+  /* For any shape tools that need a live preview */
+  .placeholder {
+    position:absolute;
+    z-index:999;
+  }
